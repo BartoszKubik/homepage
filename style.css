@@ -1,0 +1,72 @@
+header {
+    background-color: rgb(170, 92, 243);
+    text-align: center;
+    font-family: fantasy;
+}
+body {
+    background: #fefefe;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+section {
+    background-color: rgb(230, 230, 127);
+}
+h1 {
+    color: rgb(49, 49, 235);
+}
+h2 {
+    color: #1460AA;
+}
+h3 {
+    color: rgb(187, 15, 187);
+    font-size: medium;
+}
+h4 {
+    color: rgb(250, 9, 141);
+    font-size: large;
+}
+h6 {
+    color: #1d1258;
+    border-width: 25px;
+    border-style: ridge;
+    border-color: red;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    color: #1d1258;
+}
+section p {
+    color: #4e1f93;
+}
+footer {
+    background-color: lightgreen;
+    font-size: 50px;
+}
+.test {
+    color: #0d86ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: tomato;
+}
+#jeden {
+    color: rgb(83, 201, 255);
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #1d1258;
+    
+}
+#dwa {
+    color: slateblue;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #1d1258;
+}
+#trzy {
+    color: lightsalmon;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #1d1258
+}
+nav a {
+    color: green;
+}
