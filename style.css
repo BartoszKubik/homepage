@@ -97,3 +97,8 @@ nav a {
     background-color: rgba(82, 221, 27, 0.4);
     display: block;
 }
+#htrzy {
+    text-align: center;
+    color: green;
+    background-color: black;
+}
