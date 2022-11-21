@@ -93,3 +93,7 @@ nav a {
 #p4 {
     object-fit: cover;
 }
+.box {
+    background-color: rgba(82, 221, 27, 0.4);
+    display: block;
+}
