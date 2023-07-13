@@ -1,0 +1,8 @@
+.test {
+  width: 200px;
+  height: 200px;
+  font-size: large;
+  text-align: center; }
+  .test__title {
+    color: #0a0af0;
+    background-color: yellow; }

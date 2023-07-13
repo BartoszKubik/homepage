@@ -1,0 +1,10 @@
+.test {
+    width: 200px;
+    height: 200px;
+    font-size: large;
+    text-align: center;
+    &__title {
+        color: rgb(10, 10, 240);
+        background-color: yellow;
+    }
+}

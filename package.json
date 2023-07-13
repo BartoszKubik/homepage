@@ -1,15 +1,18 @@
 {
   "name": "homepage",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
+    "sass": "npx node-sass -w ../homepage/sass/main.scss ../homepage/css/main.css",
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-sass": "^9.0.0",
     "react": "^18.2.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
